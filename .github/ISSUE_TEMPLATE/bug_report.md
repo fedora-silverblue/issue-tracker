@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+This issue tracker is intended only for Silverblue specific issues. We would like to ask you to try to reproduce the issue on a relevant Fedora Workstation release. If you will be able to reproduce there, then please report it in Red Hat Bugzilla or in upstream (preferred for GNOME projects) and not in this issue tracker.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
