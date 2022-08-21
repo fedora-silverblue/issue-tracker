@@ -1,8 +1,8 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: "[RFE] "
-labels: ''
+about: Request a new feature in Fedora Silverblue
+title: ""
+labels: 'enhancement'
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: "[BUG] "
-labels: ''
+about: Report an issue with Fedora Silverblue
+title: ''
+labels: 'bug'
 assignees: ''
 
 ---
