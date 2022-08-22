@@ -1,13 +1,13 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: "[BUG] "
-labels: ''
+about: Report an issue with Fedora Silverblue
+title: ''
+labels: 'bug'
 assignees: ''
 
 ---
 
-This issue tracker is intended only for Silverblue specific issues. We would like to ask you to try to reproduce the issue on a relevant Fedora Workstation release. If you will be able to reproduce there, then please report it in Red Hat Bugzilla or in upstream (preferred for GNOME projects) and not in this issue tracker.
+This issue tracker is intended only for Silverblue specific issues. We would like to ask you to try to reproduce the issue on a relevant Fedora Workstation release. If you will be able to reproduce there, then please report it in [Red Hat Bugzilla](https://bugzilla.redhat.com/) (see [How to file a bug](https://docs.fedoraproject.org/en-US/quick-docs/howto-file-a-bug/)) or in upstream (preferred for GNOME projects) and not in this issue tracker.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
