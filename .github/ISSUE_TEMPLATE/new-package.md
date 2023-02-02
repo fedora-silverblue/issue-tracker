@@ -9,17 +9,19 @@ assignees: ''
 
 Please try to answer the following questions about the package you are requesting:
 
-1. Is the package installed by default in Fedora Wokrstation? If it is not, we will ask you to [open an issue in the issue tracker](https://pagure.io/fedora-workstation/issues) for the [Fedora Workstation Working Group](https://docs.fedoraproject.org/en-US/workstation-working-group/).
+1. Is the package installed by default in Fedora Workstation? If it is not, we will ask you to [open an issue in the issue tracker](https://pagure.io/fedora-workstation/issues) for the [Fedora Workstation Working Group](https://docs.fedoraproject.org/en-US/workstation-working-group/).
 
-2. What, if any, are the additional dependencies on the package? What is the output of this command on a system without overides or locally installed packages:
-   ```
-   $ rpm-ostree install --dry-run <package>
-   ```
+2. What, if any, are the additional dependencies on the package? What is the output of this command on a system without overrides or locally installed packages:
+
+```bash
+rpm-ostree install --dry-run <package>
+```
 
 3. What is the size of the package and its dependencies?
-   ```
-   rpm -qi <package>
-   ```
+
+```bash
+rpm -qi <package>
+```
 
 4. What problem are you trying to solve with this package? Or what functionality does the package provide?
 
